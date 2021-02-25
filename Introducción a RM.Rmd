@@ -1,0 +1,45 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+# El título de mayor tamaño se escribe con un sharp     
+
+Una alternativa al uso de un sharp es con símbolos de igual en la línea inmediata.
+
+Nuevo título de igual tamaño que con un sharp
+==============================================
+## Este es un subtítulo con dos sharps
+
+### Este es un subtítulo con tres sharps
+
+Vamos a trabajar ahora con formatos. La letra negrita se puede escribir con doble estrella o con doble guión bajo: **Este es un texto en negrita** y __este es otro__. 
+
+Además, también podemos escribir en cursivas (igualmente conocidas como itálicas). Esto se hace con una sola estrella al inicio y final o con un solo guión bajo al inicio y final: *este es un ejemplo* y _este es otro_.  
+
+Incluso, para tachar texto usamos doble virgulilla ~~como en este caso~~.
+
+Digamos que quiero escribir "x elevado al cuadrado". Esto lo hago con el símbolo de cuña (es una v invertida): x^2^. Asimismo, para subíndices se hace con virgulilla simple (abriendo y cerrando), como por ejemplo x~2~.
+
+Una de mis funciones favoritas de R es tapply. Su sintaxis es   `tapply(columna1,columna2,función)`.
+
+Todos aquí saben que nuestro repositorio se encuentra en <https://github.com/scidatmath2020>. En particular, el Taller de Introducción a Ciencia de datos lo tenemos [aquí, en este lugar](https://github.com/scidatmath2020/Taller_ICD_Rm).
+
+También podemos hacer listas:
+
+* Esta es una viñeta
+* Esta es otra
+    * Esta es una subviñeta de la anterior
+* Esta ya es la última.
+
+¡También podemos jugar con <span style="color:red">colores</span>! Y no solo con palabras, sino <span style="color:blue">también con frases completas</span>.
+
+El incrustado de imágenes es realmente muy simple: 
+
+<center>
+![Fuente: Elaboración Propia](C:\Users\HP\Pictures\Saved Pictures\Tigre.jpg)
+
+
+# **<span style="color:orange">Un título con colores y negrita</span>**
+
+Tenemos que pagar &euro;300, porque perdimos y 3&lt;1
